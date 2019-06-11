@@ -2,7 +2,7 @@
 
 欢迎光临SIM医学文库官方店铺 [SIM医学文库](https://shop544988199.taobao.com/index.htm?spm=2013.1.w5002-18668432101.2.25b84382B14gfe) 请自行选购符合自身复习进度的学习参考资料。
 
-目前提供上交医[SIM学研系列](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-18668432118.6.56fd45e8nC8nfV&id=587067500927) ，[SIM经典系列](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-18668432118.4.56fd45e8nC8nfV&id=587729755027)，SIM plan B系列。
+目前提供上交医[SIM学研系列](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-18668432118.6.56fd45e8nC8nfV&id=587067500927) ，[SIM经典系列](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-18668432118.4.56fd45e8nC8nfV&id=587729755027)，SIM plan B系列；
 以及复旦学硕[SIM-FD系列](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-18668432118.10.56fd45e8nC8nfV&id=595523275049)
 
 ## 学科代码
