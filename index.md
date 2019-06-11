@@ -1,6 +1,6 @@
 # Welcome to SIM medical school/SIM医学文库 
 
-欢迎光临SIM医学文库官方店铺 [SIM医学文库](https://shop544988199.taobao.com/index.htm?spm=2013.1.w5002-18668432101.2.25b84382B14gfe) 
+欢迎光临SIM官方店铺 [SIM医学文库](https://shop544988199.taobao.com/index.htm?spm=2013.1.w5002-18668432101.2.25b84382B14gfe) 
 
 请自行选购符合自身复习进度的学习参考资料
 
