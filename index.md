@@ -23,7 +23,7 @@ surgery外科学，internal（medicine）内科学，pathophy病生（病理生�
 
 以旧换新为福利活动，即购买旧版的同学在出示旧版购买截图或凭证后在购买新版时可享受折扣优惠
 
-目前只有上交医[SIM学研系列](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-18668432118.6.56fd45e8nC8nfV&id=587067500927) 每年更新+以旧换新
+目前只有上交医[SIM学研系列](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-18668432118.6.56fd45e8nC8nfV&id=587067500927) （资料代码为 SIM）每年更新+以旧换新
 
 具体更新时间参考以交流群内“旧换新活动细则”为准
 
