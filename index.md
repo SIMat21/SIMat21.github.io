@@ -5,16 +5,17 @@
 目前提供上交医[SIM学研系列](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-18668432118.6.56fd45e8nC8nfV&id=587067500927) ，[SIM经典系列](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-18668432118.4.56fd45e8nC8nfV&id=587729755027)，SIM plan B系列。
 以及复旦学硕[SIM-FD系列](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-18668432118.10.56fd45e8nC8nfV&id=595523275049)
 
-# 学科代码
+## 学科代码
 
 学科代码，为英文/不完全英文：
 surgery外科学，internal（medicine）内科学，pathophy病生（病理生理学），biochemy生化（生物化学）
 
-# 资料更新
+## 资料更新
 
-店内所有资料只有SIM学研系列中SIM资料（代码为SIM）和SIM-FD系列每年更新，具体更新时间由交流群QQ：675183647（上交）或QQ：484973109（复旦）第一时间通知。
+店内所有资料只有SIM学研系列中SIM资料（代码为SIM）和SIM-FD系列每年更新，具体更新时间
+由交流群QQ：675183647（上交）或QQ：484973109（复旦）第一时间通知。
 
-# 以旧换新（资料代码为 SIM）
+## 以旧换新（资料代码为 SIM）
 
 以旧换新为福利活动，即购买旧版的同学在出示旧版购买截图或凭证后在购买新版时可享受折扣优惠。目前只有上交医[SIM学研系列](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-18668432118.6.56fd45e8nC8nfV&id=587067500927) 每年更新+以旧换新，具体更新时间参考以交流群内“旧换新活动细则”为准。
 
