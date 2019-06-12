@@ -5,7 +5,9 @@ date_format: "ordinal"
 title: SIM医学文库
 subtitle: "SIM医学文库资料小站"
 description: "SIM在手，考试无忧"
-keywords: SIM医学文库, 交大学硕, 复旦学硕, 上交专硕,上交考研，上交SIM，上海交通大学SIM，SIM工作室
+keywords: SIM医学文库, 交大学硕, 复旦学硕, 上交专硕,上交考研，上交SIM，上海交通大学SIM，SIM工作室，上海交通大学SIM工作室，SIM医学考研，考研资料，上交医学考研资料，
+上海医学考研，复旦考研，复旦医学，交大医学
+
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
