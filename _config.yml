@@ -11,3 +11,12 @@ keywords: SIM医学文库, 交大学硕, 复旦学硕, 上交专硕,上交考研
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
+
+- (BOOL)joinGroup:(NSString *)groupUin key:(NSString *)key{
+NSString *urlStr = [NSString stringWithFormat:@"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=%@&key=%@&card_type=group&source=external", @"264019698",@"848590ec3f9cd63e92dd98e3889ef8945855b891e766fdb6e5c8bad0fa6c7275"];
+NSURL *url = [NSURL URLWithString:urlStr];
+if([[UIApplication sharedApplication] canOpenURL:url]){
+[[UIApplication sharedApplication] openURL:url];
+return YES;
+}
+else return
