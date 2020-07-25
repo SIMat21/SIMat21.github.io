@@ -9,7 +9,6 @@
 ![Image text](https://raw.githubusercontent.com/SIMat21/SIMat21.github.io/master/img-folder/SIM医学文库公众号.jpg)
 
 
-复旦学硕参考[SIM-FD系列](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-18668432118.10.56fd45e8nC8nfV&id=595523275049)
 
 # 学科代码
 
@@ -63,7 +62,7 @@ WGX=王共先主编系列题库，二酱学子口耳相传下来的绝版题库�
 # 联系方式
 QQ咨询：1915198618（SIM医学文库）
 
-备考交流群：264019698（上交学硕）/484973109（复旦学硕）/ 976467281（上海专硕） 
+备考交流群：1006359483（上交学硕）/484973109（复旦学硕）/ 976467281（上海专硕） 
 
 淘宝店铺搜索：SIM医学文库
 
