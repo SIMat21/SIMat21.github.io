@@ -6,7 +6,9 @@
 
 目前提供上交医参考[SIM学研系列](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-18668432118.6.56fd45e8nC8nfV&id=587067500927) ，[SIM经典系列](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-18668432118.4.56fd45e8nC8nfV&id=587729755027)，SIM plan B系列。
 
-![Image text](https://raw.githubusercontent.com/SIMat21/SIMat21.github.io/master/img-folder/SIM医学文库公众号.jpg)
+
+![Image text](https://raw.githubusercontent.com/SIMat21/SIMat21.github.io/master/2021%E4%B8%8A%E4%BA%A4%E5%8C%BB%E5%AD%A6%E8%80%83%E7%A0%94SIM%E5%AD%A6%E7%BE%A4%E8%81%8A%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+
 
 
 
@@ -69,5 +71,5 @@ QQ咨询：1915198618（SIM医学文库）
 淘宝宝贝搜索：SIM医学
 
 微信公众号：SIM医学文库
-
 ![Image text](https://raw.githubusercontent.com/SIMat21/SIMat21.github.io/master/img-folder/SIM医学文库公众号.jpg)
+![Image text](https://raw.githubusercontent.com/SIMat21/SIMat21.github.io/master/20%E5%B1%8A%E4%B8%93%E7%A1%95%E4%B8%8A%E4%BA%A4%E5%8C%BB%E5%AD%A6%E4%BA%A4%E6%B5%81%E7%BE%A4%E8%81%8A%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
